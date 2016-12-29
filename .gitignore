@@ -1,0 +1,6 @@
+.vs/
+**/__vm/*.xml
+_ReSharper*/
+bin/
+obj/
+*.vcxproj.user
